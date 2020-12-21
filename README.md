@@ -1,2 +1,2 @@
 # Roberta
- primeiro repositório - curso GitGitHub
+ Primeiro repositório - curso GitGitHub.
